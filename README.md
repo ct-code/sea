@@ -1,2 +1,2 @@
-# sea
-Secure Examination App
+# CodeTantra SEA
+CodeTantra Secure Examination App
